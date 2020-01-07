@@ -68,8 +68,6 @@ Please include instructions how to authenticate/login, so that we can test the e
 ---
 
 
-Good luck!
-❤️ mytaxi
 
 
 
